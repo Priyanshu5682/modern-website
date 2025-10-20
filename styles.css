@@ -255,3 +255,7 @@ html, body {
     color: #fff;
     text-decoration: none;
 }
+
+.bounding .boundingelem {
+    transform: translateY(0);
+}
